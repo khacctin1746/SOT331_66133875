@@ -1,0 +1,15 @@
+D:\File Manager\2.Code\SOT331_LapTrinhHuongDoiTuong\SOT331_66133875\TinhTienDien\TinhTienDien\bin\Debug\net10.0\TinhTienDien.exe
+D:\File Manager\2.Code\SOT331_LapTrinhHuongDoiTuong\SOT331_66133875\TinhTienDien\TinhTienDien\bin\Debug\net10.0\TinhTienDien.deps.json
+D:\File Manager\2.Code\SOT331_LapTrinhHuongDoiTuong\SOT331_66133875\TinhTienDien\TinhTienDien\bin\Debug\net10.0\TinhTienDien.runtimeconfig.json
+D:\File Manager\2.Code\SOT331_LapTrinhHuongDoiTuong\SOT331_66133875\TinhTienDien\TinhTienDien\bin\Debug\net10.0\TinhTienDien.dll
+D:\File Manager\2.Code\SOT331_LapTrinhHuongDoiTuong\SOT331_66133875\TinhTienDien\TinhTienDien\bin\Debug\net10.0\TinhTienDien.pdb
+D:\File Manager\2.Code\SOT331_LapTrinhHuongDoiTuong\SOT331_66133875\TinhTienDien\TinhTienDien\obj\Debug\net10.0\TinhTienDien.GeneratedMSBuildEditorConfig.editorconfig
+D:\File Manager\2.Code\SOT331_LapTrinhHuongDoiTuong\SOT331_66133875\TinhTienDien\TinhTienDien\obj\Debug\net10.0\TinhTienDien.AssemblyInfoInputs.cache
+D:\File Manager\2.Code\SOT331_LapTrinhHuongDoiTuong\SOT331_66133875\TinhTienDien\TinhTienDien\obj\Debug\net10.0\TinhTienDien.AssemblyInfo.cs
+D:\File Manager\2.Code\SOT331_LapTrinhHuongDoiTuong\SOT331_66133875\TinhTienDien\TinhTienDien\obj\Debug\net10.0\TinhTienDien.csproj.CoreCompileInputs.cache
+D:\File Manager\2.Code\SOT331_LapTrinhHuongDoiTuong\SOT331_66133875\TinhTienDien\TinhTienDien\obj\Debug\net10.0\TinhTienDien.sourcelink.json
+D:\File Manager\2.Code\SOT331_LapTrinhHuongDoiTuong\SOT331_66133875\TinhTienDien\TinhTienDien\obj\Debug\net10.0\TinhTienDien.dll
+D:\File Manager\2.Code\SOT331_LapTrinhHuongDoiTuong\SOT331_66133875\TinhTienDien\TinhTienDien\obj\Debug\net10.0\refint\TinhTienDien.dll
+D:\File Manager\2.Code\SOT331_LapTrinhHuongDoiTuong\SOT331_66133875\TinhTienDien\TinhTienDien\obj\Debug\net10.0\TinhTienDien.pdb
+D:\File Manager\2.Code\SOT331_LapTrinhHuongDoiTuong\SOT331_66133875\TinhTienDien\TinhTienDien\obj\Debug\net10.0\TinhTienDien.genruntimeconfig.cache
+D:\File Manager\2.Code\SOT331_LapTrinhHuongDoiTuong\SOT331_66133875\TinhTienDien\TinhTienDien\obj\Debug\net10.0\ref\TinhTienDien.dll

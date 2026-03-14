@@ -1,0 +1,15 @@
+D:\File Manager\2.Code\SOT331_LapTrinhHuongDoiTuong\SOT331_66133875\vitrung\vitrung\bin\Debug\net10.0\vitrung.exe
+D:\File Manager\2.Code\SOT331_LapTrinhHuongDoiTuong\SOT331_66133875\vitrung\vitrung\bin\Debug\net10.0\vitrung.deps.json
+D:\File Manager\2.Code\SOT331_LapTrinhHuongDoiTuong\SOT331_66133875\vitrung\vitrung\bin\Debug\net10.0\vitrung.runtimeconfig.json
+D:\File Manager\2.Code\SOT331_LapTrinhHuongDoiTuong\SOT331_66133875\vitrung\vitrung\bin\Debug\net10.0\vitrung.dll
+D:\File Manager\2.Code\SOT331_LapTrinhHuongDoiTuong\SOT331_66133875\vitrung\vitrung\bin\Debug\net10.0\vitrung.pdb
+D:\File Manager\2.Code\SOT331_LapTrinhHuongDoiTuong\SOT331_66133875\vitrung\vitrung\obj\Debug\net10.0\vitrung.GeneratedMSBuildEditorConfig.editorconfig
+D:\File Manager\2.Code\SOT331_LapTrinhHuongDoiTuong\SOT331_66133875\vitrung\vitrung\obj\Debug\net10.0\vitrung.AssemblyInfoInputs.cache
+D:\File Manager\2.Code\SOT331_LapTrinhHuongDoiTuong\SOT331_66133875\vitrung\vitrung\obj\Debug\net10.0\vitrung.AssemblyInfo.cs
+D:\File Manager\2.Code\SOT331_LapTrinhHuongDoiTuong\SOT331_66133875\vitrung\vitrung\obj\Debug\net10.0\vitrung.csproj.CoreCompileInputs.cache
+D:\File Manager\2.Code\SOT331_LapTrinhHuongDoiTuong\SOT331_66133875\vitrung\vitrung\obj\Debug\net10.0\vitrung.sourcelink.json
+D:\File Manager\2.Code\SOT331_LapTrinhHuongDoiTuong\SOT331_66133875\vitrung\vitrung\obj\Debug\net10.0\vitrung.dll
+D:\File Manager\2.Code\SOT331_LapTrinhHuongDoiTuong\SOT331_66133875\vitrung\vitrung\obj\Debug\net10.0\refint\vitrung.dll
+D:\File Manager\2.Code\SOT331_LapTrinhHuongDoiTuong\SOT331_66133875\vitrung\vitrung\obj\Debug\net10.0\vitrung.pdb
+D:\File Manager\2.Code\SOT331_LapTrinhHuongDoiTuong\SOT331_66133875\vitrung\vitrung\obj\Debug\net10.0\vitrung.genruntimeconfig.cache
+D:\File Manager\2.Code\SOT331_LapTrinhHuongDoiTuong\SOT331_66133875\vitrung\vitrung\obj\Debug\net10.0\ref\vitrung.dll

@@ -1,0 +1,15 @@
+D:\File Manager\2.Code\SOT331_LapTrinhHuongDoiTuong\SOT331_66133875\calculator\calculator\bin\Debug\net10.0\calculator.exe
+D:\File Manager\2.Code\SOT331_LapTrinhHuongDoiTuong\SOT331_66133875\calculator\calculator\bin\Debug\net10.0\calculator.deps.json
+D:\File Manager\2.Code\SOT331_LapTrinhHuongDoiTuong\SOT331_66133875\calculator\calculator\bin\Debug\net10.0\calculator.runtimeconfig.json
+D:\File Manager\2.Code\SOT331_LapTrinhHuongDoiTuong\SOT331_66133875\calculator\calculator\bin\Debug\net10.0\calculator.dll
+D:\File Manager\2.Code\SOT331_LapTrinhHuongDoiTuong\SOT331_66133875\calculator\calculator\bin\Debug\net10.0\calculator.pdb
+D:\File Manager\2.Code\SOT331_LapTrinhHuongDoiTuong\SOT331_66133875\calculator\calculator\obj\Debug\net10.0\calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\File Manager\2.Code\SOT331_LapTrinhHuongDoiTuong\SOT331_66133875\calculator\calculator\obj\Debug\net10.0\calculator.AssemblyInfoInputs.cache
+D:\File Manager\2.Code\SOT331_LapTrinhHuongDoiTuong\SOT331_66133875\calculator\calculator\obj\Debug\net10.0\calculator.AssemblyInfo.cs
+D:\File Manager\2.Code\SOT331_LapTrinhHuongDoiTuong\SOT331_66133875\calculator\calculator\obj\Debug\net10.0\calculator.csproj.CoreCompileInputs.cache
+D:\File Manager\2.Code\SOT331_LapTrinhHuongDoiTuong\SOT331_66133875\calculator\calculator\obj\Debug\net10.0\calculator.sourcelink.json
+D:\File Manager\2.Code\SOT331_LapTrinhHuongDoiTuong\SOT331_66133875\calculator\calculator\obj\Debug\net10.0\calculator.dll
+D:\File Manager\2.Code\SOT331_LapTrinhHuongDoiTuong\SOT331_66133875\calculator\calculator\obj\Debug\net10.0\refint\calculator.dll
+D:\File Manager\2.Code\SOT331_LapTrinhHuongDoiTuong\SOT331_66133875\calculator\calculator\obj\Debug\net10.0\calculator.pdb
+D:\File Manager\2.Code\SOT331_LapTrinhHuongDoiTuong\SOT331_66133875\calculator\calculator\obj\Debug\net10.0\calculator.genruntimeconfig.cache
+D:\File Manager\2.Code\SOT331_LapTrinhHuongDoiTuong\SOT331_66133875\calculator\calculator\obj\Debug\net10.0\ref\calculator.dll
