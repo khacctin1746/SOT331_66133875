@@ -71,6 +71,26 @@ namespace Bai3_2
             this.luongCB = luongCB;
             this.soSanPham = soSanPham;
         }
+
+        public new void Nhap()
+        {
+            base.Nhap();
+            Console.Write("Vui long nhap luong can ban: ");
+            luongCB = Convert.ToDouble(Console.ReadLine());
+            Console.Write("Vui long so san pham ");
+            soSanPham = Convert.ToDouble(Console.ReadLine());
+        }
+
+        public new void Xuat()
+        {
+            base.Xuat();
+            Console.WriteLine("Luong: " + getLuong());
+        }
+
+        public double getLuong()
+        {
+            return luongCB * soSanPham * 5000;
+        }
     }
     public class NhanVienVanPhong : NhanVien
     {
@@ -125,7 +145,9 @@ namespace Bai3_2
                     ds.Add(vp);
                 } else if (option == 2)
                 {
-                    
+                    NhanVienSanXuat xx =  new NhanVienSanXuat();
+                    xx.Nhap();
+                    ds.Add(xx);
                 }
             }
         }
