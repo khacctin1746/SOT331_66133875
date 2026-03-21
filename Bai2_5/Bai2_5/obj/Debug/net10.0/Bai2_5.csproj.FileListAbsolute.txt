@@ -1,0 +1,15 @@
+D:\File Manager\2.Code\SOT331_LapTrinhHuongDoiTuong\SOT331_66133875\Bai2_5\Bai2_5\bin\Debug\net10.0\Bai2_5.exe
+D:\File Manager\2.Code\SOT331_LapTrinhHuongDoiTuong\SOT331_66133875\Bai2_5\Bai2_5\bin\Debug\net10.0\Bai2_5.deps.json
+D:\File Manager\2.Code\SOT331_LapTrinhHuongDoiTuong\SOT331_66133875\Bai2_5\Bai2_5\bin\Debug\net10.0\Bai2_5.runtimeconfig.json
+D:\File Manager\2.Code\SOT331_LapTrinhHuongDoiTuong\SOT331_66133875\Bai2_5\Bai2_5\bin\Debug\net10.0\Bai2_5.dll
+D:\File Manager\2.Code\SOT331_LapTrinhHuongDoiTuong\SOT331_66133875\Bai2_5\Bai2_5\bin\Debug\net10.0\Bai2_5.pdb
+D:\File Manager\2.Code\SOT331_LapTrinhHuongDoiTuong\SOT331_66133875\Bai2_5\Bai2_5\obj\Debug\net10.0\Bai2_5.GeneratedMSBuildEditorConfig.editorconfig
+D:\File Manager\2.Code\SOT331_LapTrinhHuongDoiTuong\SOT331_66133875\Bai2_5\Bai2_5\obj\Debug\net10.0\Bai2_5.AssemblyInfoInputs.cache
+D:\File Manager\2.Code\SOT331_LapTrinhHuongDoiTuong\SOT331_66133875\Bai2_5\Bai2_5\obj\Debug\net10.0\Bai2_5.AssemblyInfo.cs
+D:\File Manager\2.Code\SOT331_LapTrinhHuongDoiTuong\SOT331_66133875\Bai2_5\Bai2_5\obj\Debug\net10.0\Bai2_5.csproj.CoreCompileInputs.cache
+D:\File Manager\2.Code\SOT331_LapTrinhHuongDoiTuong\SOT331_66133875\Bai2_5\Bai2_5\obj\Debug\net10.0\Bai2_5.sourcelink.json
+D:\File Manager\2.Code\SOT331_LapTrinhHuongDoiTuong\SOT331_66133875\Bai2_5\Bai2_5\obj\Debug\net10.0\Bai2_5.dll
+D:\File Manager\2.Code\SOT331_LapTrinhHuongDoiTuong\SOT331_66133875\Bai2_5\Bai2_5\obj\Debug\net10.0\refint\Bai2_5.dll
+D:\File Manager\2.Code\SOT331_LapTrinhHuongDoiTuong\SOT331_66133875\Bai2_5\Bai2_5\obj\Debug\net10.0\Bai2_5.pdb
+D:\File Manager\2.Code\SOT331_LapTrinhHuongDoiTuong\SOT331_66133875\Bai2_5\Bai2_5\obj\Debug\net10.0\Bai2_5.genruntimeconfig.cache
+D:\File Manager\2.Code\SOT331_LapTrinhHuongDoiTuong\SOT331_66133875\Bai2_5\Bai2_5\obj\Debug\net10.0\ref\Bai2_5.dll
