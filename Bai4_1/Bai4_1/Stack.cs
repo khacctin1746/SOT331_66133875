@@ -6,7 +6,7 @@ public class Stack
 {
     private int top;
     private int max;
-    ArrayList stack;
+    protected ArrayList stack;
 
     public Stack()
     {
@@ -50,7 +50,7 @@ public class Stack
         }
     }
 
-    public void PrintStack()
+    public virtual void PrintStack()
     {
         for (int i = 0; i < stack.Count; i++)
         {
