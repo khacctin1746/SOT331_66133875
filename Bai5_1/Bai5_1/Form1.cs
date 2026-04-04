@@ -69,7 +69,7 @@ public partial class Form1 : Form
         ketQua.Left = 20;
         ketQua.Width = 500;
         ketQua.Height = 100;
-        ketQua.BorderStyle = BorderStyle.FixedSingle; // viền giống hình
+        ketQua.BorderStyle = BorderStyle.FixedSingle;   
         ketQua.Font = new Font("Tahoma", 14);
         ketQua.Text = ""; 
         
