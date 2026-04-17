@@ -4,7 +4,28 @@
     <projectFile>Shapes/Shapes.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f62a5a36-c314-445e-bcbb-1f739135da0e" name="Changes" comment="" />
+    <list default="true" id="f62a5a36-c314-445e-bcbb-1f739135da0e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Bai5_1.rar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bai5_2/Bai5_2/Form1.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Bai5_2/Bai5_2/Form1.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bai5_2/Bai5_2/bin/Debug/net10.0-windows/Bai5_2.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Bai5_2/Bai5_2/bin/Debug/net10.0-windows/Bai5_2.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bai5_2/Bai5_2/bin/Debug/net10.0-windows/Bai5_2.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../Bai5_2/Bai5_2/bin/Debug/net10.0-windows/Bai5_2.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bai5_2/Bai5_2/bin/Debug/net10.0-windows/Bai5_2.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../Bai5_2/Bai5_2/bin/Debug/net10.0-windows/Bai5_2.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bai5_2/Bai5_2/obj/Debug/net10.0-windows/Bai5_2.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Bai5_2/Bai5_2/obj/Debug/net10.0-windows/Bai5_2.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bai5_2/Bai5_2/obj/Debug/net10.0-windows/Bai5_2.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../Bai5_2/Bai5_2/obj/Debug/net10.0-windows/Bai5_2.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bai5_2/Bai5_2/obj/Debug/net10.0-windows/Bai5_2.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Bai5_2/Bai5_2/obj/Debug/net10.0-windows/Bai5_2.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bai5_2/Bai5_2/obj/Debug/net10.0-windows/Bai5_2.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../Bai5_2/Bai5_2/obj/Debug/net10.0-windows/Bai5_2.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bai5_2/Bai5_2/obj/Debug/net10.0-windows/Bai5_2.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Bai5_2/Bai5_2/obj/Debug/net10.0-windows/Bai5_2.sourcelink.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bai5_2/Bai5_2/obj/Debug/net10.0-windows/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../Bai5_2/Bai5_2/obj/Debug/net10.0-windows/apphost.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bai5_2/Bai5_2/obj/Debug/net10.0-windows/ref/Bai5_2.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Bai5_2/Bai5_2/obj/Debug/net10.0-windows/ref/Bai5_2.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bai5_2/Bai5_2/obj/Debug/net10.0-windows/refint/Bai5_2.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Bai5_2/Bai5_2/obj/Debug/net10.0-windows/refint/Bai5_2.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Shapes/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Shapes/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shapes/obj/Debug/net10.0/Shapes.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Shapes/obj/Debug/net10.0/Shapes.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shapes/obj/Debug/net10.0/Shapes.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Shapes/obj/Debug/net10.0/Shapes.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shapes/obj/Shapes.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Shapes/obj/Shapes.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shapes/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Shapes/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shapes/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Shapes/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shapes/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Shapes/obj/rider.project.restore.info" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,16 +42,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "git-widget-placeholder": "main",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="Shapes" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
@@ -62,6 +83,7 @@
       <option name="presentableId" value="Default" />
       <updated>1774662748930</updated>
       <workItem from="1775261708642" duration="6000" />
+      <workItem from="1775271061223" duration="79000" />
     </task>
     <servers />
   </component>

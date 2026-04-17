@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\File Manager\\2.Code\\SOT331_LapTrinhHuongDoiTuong\\SOT331_66133875\\Shapes\\Shapes\\Shapes.csproj": {}
+    "C:\\Users\\khacc\\OneDrive\\Desktop\\Bai1\\Bai1\\Bai1.csproj": {}
   },
   "projects": {
-    "D:\\File Manager\\2.Code\\SOT331_LapTrinhHuongDoiTuong\\SOT331_66133875\\Shapes\\Shapes\\Shapes.csproj": {
+    "C:\\Users\\khacc\\OneDrive\\Desktop\\Bai1\\Bai1\\Bai1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\File Manager\\2.Code\\SOT331_LapTrinhHuongDoiTuong\\SOT331_66133875\\Shapes\\Shapes\\Shapes.csproj",
-        "projectName": "Shapes",
-        "projectPath": "D:\\File Manager\\2.Code\\SOT331_LapTrinhHuongDoiTuong\\SOT331_66133875\\Shapes\\Shapes\\Shapes.csproj",
+        "projectUniqueName": "C:\\Users\\khacc\\OneDrive\\Desktop\\Bai1\\Bai1\\Bai1.csproj",
+        "projectName": "Bai1",
+        "projectPath": "C:\\Users\\khacc\\OneDrive\\Desktop\\Bai1\\Bai1\\Bai1.csproj",
         "packagesPath": "C:\\Users\\khacc\\.nuget\\packages\\",
-        "outputPath": "D:\\File Manager\\2.Code\\SOT331_LapTrinhHuongDoiTuong\\SOT331_66133875\\Shapes\\Shapes\\obj\\",
+        "outputPath": "C:\\Users\\khacc\\OneDrive\\Desktop\\Bai1\\Bai1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\khacc\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -38,7 +38,7 @@
           "auditLevel": "low",
           "auditMode": "all"
         },
-        "SdkAnalysisLevel": "10.0.100"
+        "SdkAnalysisLevel": "10.0.200"
       },
       "frameworks": {
         "net10.0": {
@@ -59,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Users\\khacc\\.dotnet\\sdk\\10.0.103/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.202/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",

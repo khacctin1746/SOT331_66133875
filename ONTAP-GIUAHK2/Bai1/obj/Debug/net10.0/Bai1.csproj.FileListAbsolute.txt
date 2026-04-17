@@ -1,0 +1,14 @@
+C:\Users\khacc\OneDrive\Desktop\Bai1\Bai1\bin\Debug\net10.0\Bai1.exe
+C:\Users\khacc\OneDrive\Desktop\Bai1\Bai1\bin\Debug\net10.0\Bai1.deps.json
+C:\Users\khacc\OneDrive\Desktop\Bai1\Bai1\bin\Debug\net10.0\Bai1.runtimeconfig.json
+C:\Users\khacc\OneDrive\Desktop\Bai1\Bai1\bin\Debug\net10.0\Bai1.dll
+C:\Users\khacc\OneDrive\Desktop\Bai1\Bai1\bin\Debug\net10.0\Bai1.pdb
+C:\Users\khacc\OneDrive\Desktop\Bai1\Bai1\obj\Debug\net10.0\Bai1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khacc\OneDrive\Desktop\Bai1\Bai1\obj\Debug\net10.0\Bai1.AssemblyInfoInputs.cache
+C:\Users\khacc\OneDrive\Desktop\Bai1\Bai1\obj\Debug\net10.0\Bai1.AssemblyInfo.cs
+C:\Users\khacc\OneDrive\Desktop\Bai1\Bai1\obj\Debug\net10.0\Bai1.csproj.CoreCompileInputs.cache
+C:\Users\khacc\OneDrive\Desktop\Bai1\Bai1\obj\Debug\net10.0\Bai1.dll
+C:\Users\khacc\OneDrive\Desktop\Bai1\Bai1\obj\Debug\net10.0\refint\Bai1.dll
+C:\Users\khacc\OneDrive\Desktop\Bai1\Bai1\obj\Debug\net10.0\Bai1.pdb
+C:\Users\khacc\OneDrive\Desktop\Bai1\Bai1\obj\Debug\net10.0\Bai1.genruntimeconfig.cache
+C:\Users\khacc\OneDrive\Desktop\Bai1\Bai1\obj\Debug\net10.0\ref\Bai1.dll

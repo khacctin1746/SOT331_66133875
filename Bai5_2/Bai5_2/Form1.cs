@@ -117,24 +117,37 @@ public partial class Form1 : Form
     {
         if (double.TryParse(nghiemA.Text, out double a))
         {
-            a = Convert.ToDouble(nghiemA.Text);
-            
             if (double.TryParse(nghiemB.Text, out double b))
             {
-                b = Convert.ToDouble(nghiemB.Text);
-                
                 if (double.TryParse(nghiemC.Text, out double c))
                 {
-                    c = Convert.ToDouble(nghiemC.Text);
+                    if (a == 0)
+                    {
+                        if (b == 0)
+                        {
+                            if (c == 0)
+                                ketQua.Text = "Phương trình có vô số nghiệm";
+                            else
+                                ketQua.Text = "Phương trình vô nghiệm";
+                        }
+                        else
+                        {
+                            double x = -c / b;
+                            ketQua.Text = "Phương trình bậc 1 có nghiệm: x = " + x;
+                        }
+                        return; 
+                    }
                     
-                    double delta = b * b - (4 * a * c);
+                    double delta = b * b - 4 * a * c;
+
                     if (delta < 0)
                     {
                         ketQua.Text = "Phương trình vô nghiệm";
-                    } else if (delta == 0)
+                    }
+                    else if (delta == 0)
                     {
                         double x = -b / (2 * a);
-                        ketQua.Text = "Phương trình có nghiệm kép: " + x;
+                        ketQua.Text = "Phương trình có nghiệm kép: x = " + x;
                     }
                     else
                     {
@@ -156,9 +169,9 @@ public partial class Form1 : Form
         else
         {
             ketQua.Text = "Số a bạn nhập không phải là số hợp lệ";
-        }
+        } 
     }
-
+    
     public void button2_Click(object sender, EventArgs e)
     {
         this.Close();
